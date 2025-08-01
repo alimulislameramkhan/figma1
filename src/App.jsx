@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import logo from './assets/images/logo.png';
 import heroGif from './assets/images/hero.gif';
 import teamMember1 from './assets/images/team1.jpg';
